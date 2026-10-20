@@ -1,0 +1,19 @@
+{
+  "name": "ultra-adavance-trading",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.17.0",
+    "node-telegram-bot-api": "^2.1.0",
+    "rpc-websockets": "^10.0.1",
+    "sqlite3": "^6.0.1",
+    "uuid": "^10.0.0"
+  },
+  "description": ""
+}
